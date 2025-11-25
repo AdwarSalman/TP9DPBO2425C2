@@ -1,10 +1,10 @@
-# TP10DPBO2025 - Sistem Manajemen F1 (PHP MVP)
-Tugas Praktikum 10 DPBO
+# TP9DPBO2025 - Sistem Manajemen F1 (PHP MVP)
+Tugas Praktikum 9 DPBO
 
 Aplikasi ini merupakan implementasi sistem manajemen data Balapan F1 (Pembalap & Tim) berbasis PHP Native yang menggunakan arsitektur **MVP (Model-View-Presenter)**. Fitur utama meliputi **CRUD** (Create, Read, Update, Delete) pada dua tabel yang saling berelasi.
 
 ## Janji
-Saya [Nama Lengkap Anda] dengan NIM [NIM Anda] mengerjakan Tugas Praktikum 10 dalam mata kuliah Desain Pemrograman Berorientasi Objek. Untuk Keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+Saya Muhammad Adwar Salman dengan NIM 2401539 mengerjakan Tugas Praktikum 10 dalam mata kuliah Desain Pemrograman Berorientasi Objek. Untuk Keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Desain Program
 
